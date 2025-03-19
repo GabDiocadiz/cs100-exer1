@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences **C, C++, and SFML Project Development, Programming in Assembly, Java with the use of JavaFX, App development using Flutter and Dart, Use of SQL in MariaDB**
 
-- ⚡ Fun fact **Basketball Player, Sophomore Transferee from UP Cebu to UP Los Baños**
+- ⚡ Fun fact **Basketball & Billiards Player, Sophomore Transferee from UP Cebu to UP Los Baños**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
